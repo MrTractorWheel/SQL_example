@@ -1,1 +1,1 @@
-#TODO: Update the content of this file later
+Simple SQL project working on job postings database of 2023
